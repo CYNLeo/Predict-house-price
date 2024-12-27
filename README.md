@@ -1,4 +1,4 @@
-# Predict-house-price (School assignment)
+# Predict-house-price 
 Predict house prices with different algorithms
 
 Objective: Predict the price of a house based on various features such as area, number of
